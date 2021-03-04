@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Library Fresh",
+    "description": "",
+    "home_page_url": "https://jntd.github.io",
+    "feed_url": "https://jntd.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jeffrey T. Davis"
+    },
+    "items": [
+        {
+            "id": "https://jntd.github.io/first-testpost.html",
+            "url": "https://jntd.github.io/first-testpost.html",
+            "title": "First testpost",
+            "summary": "Seeing about it.",
+            "content_html": "<p>Seeing about it.</p>",
+            "author": {
+                "name": "Jeffrey T. Davis"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-03T17:16:03-08:00",
+            "date_modified": "2021-03-03T17:16:03-08:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jntd.github.io/sitemap.xml

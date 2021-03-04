@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Library Fresh</title>
+    <link href="https://jntd.github.io/feed.xml" rel="self" />
+    <link href="https://jntd.github.io" />
+    <updated>2021-03-03T17:16:03-08:00</updated>
+    <author>
+        <name>Jeffrey T. Davis</name>
+    </author>
+    <id>https://jntd.github.io</id>
+
+    <entry>
+        <title>First testpost</title>
+        <author>
+            <name>Jeffrey T. Davis</name>
+        </author>
+        <link href="https://jntd.github.io/first-testpost.html"/>
+        <id>https://jntd.github.io/first-testpost.html</id>
+
+        <updated>2021-03-03T17:16:03-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Seeing about it.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Seeing about it.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
