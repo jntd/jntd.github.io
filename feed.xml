@@ -3,35 +3,29 @@
     <title>Library Fresh</title>
     <link href="https://jntd.github.io/feed.xml" rel="self" />
     <link href="https://jntd.github.io" />
-    <updated>2021-03-04T12:59:54-08:00</updated>
+    <updated>2021-03-18T10:07:06-07:00</updated>
     <author>
         <name>Jeffrey T. Davis</name>
     </author>
     <id>https://jntd.github.io</id>
 
     <entry>
-        <title>Work</title>
+        <title>Pardon the dust</title>
         <author>
             <name>Jeffrey T. Davis</name>
         </author>
-        <link href="https://jntd.github.io/work.html"/>
-        <id>https://jntd.github.io/work.html</id>
+        <link href="https://jntd.github.io/pardon-the-dust.html"/>
+        <id>https://jntd.github.io/pardon-the-dust.html</id>
 
-        <updated>2021-03-04T12:59:54-08:00</updated>
-            <summary></summary>
+        <updated>2021-03-18T10:07:06-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Moved this to a new set-up. Cleaning up the import still.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/image-asset-2-2.jpeg" data-size="2136x1602"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/image-asset-2-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/image-asset-3-2.jpeg" data-size="2196x1648"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/image-asset-3-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/image-asset-4-2.jpeg" data-size="1576x1182"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/image-asset-4-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/image-asset-5.jpeg" data-size="2218x1664"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/image-asset-5-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/P7240185-2.JPG" data-size="1000x1333"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/P7240185-2-thumbnail.JPG" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/P7240193-2.JPG" data-size="2500x1875"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/P7240193-2-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/P7240204-2.JPG" data-size="1000x1334"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/P7240204-2-thumbnail.JPG" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/rocket-2.jpg" data-size="2227x1670"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/rocket-2-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://jntd.github.io/media/posts/2/gallery/secret-2.jpeg" data-size="2500x1874"><img loading="lazy" src="https://jntd.github.io/media/posts/2/gallery/secret-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-</div></div>
+                <p>Moved this to a new set-up. Cleaning up the import still.</p>
             ]]>
         </content>
     </entry>
